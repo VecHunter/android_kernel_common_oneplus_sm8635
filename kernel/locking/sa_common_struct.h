@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/cpu/sched/sched_assist/sa_common_struct.h
+../../../android_kernel_modules_and_devicetree_oneplus_sm8635/vendor/oplus/kernel/cpu/sched/sched_assist/sa_common_struct.h

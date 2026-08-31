@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/synchronize/oplus_locking.h
+../../../android_kernel_modules_and_devicetree_oneplus_sm8635/vendor/oplus/kernel/synchronize/oplus_locking.h
